@@ -23,8 +23,9 @@
 
 ## 💻 Project 
 - 챗봇 기반의 맞춤형 여행 서비스 - TRIPPASS _(2024.06 - 2024.08)_
+  👉🏻 [GITHUB](https://github.com/songhannaa/BookMate.git)
 - 네이버 오픈API를 활용한 최저가 찾기 서비스 - FINDTHESHOP _(2024.06 - 2024.08)_
-- [독서 소모임 플랫폼 - 북메이트 _(2023.07 - 2023.09)_]((https://github.com/songhannaa/BookMate.git))
+- 독서 소모임 플랫폼 - 북메이트 _(2023.07 - 2023.09)_
 
 <br>
  

@@ -11,7 +11,7 @@
 </p>
 <br>
 
-## Hi there 👋
+## 👋 Hi there 
 
 [![Github Badge](https://img.shields.io/badge/-songhannaa-grey?style=flat&logo=github&logoColor=white&link=https://github.com/songhannaa/)](https://www.github.com/songhannaa/) 
 [![Gmail Badge](https://img.shields.io/badge/-onygj09@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:onygj09@gmail.com)](mailto:onygj09@gmail.com) 

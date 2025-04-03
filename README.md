@@ -21,7 +21,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-onygj09@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:onygj09@gmail.com)](mailto:onygj09@gmail.com) 
 [![GitHub.io](https://img.shields.io/badge/GitHub.io-orange?style=flat&logoColor=white)](https://songhannaa.github.io/)
 [![Velog Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://velog.io/@shn0322)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonghannaa&count_bg=%23678CD7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITED&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 

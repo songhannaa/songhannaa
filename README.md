@@ -9,11 +9,7 @@
 
  
  ---
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=songhannaa&show_icons=true&include_all_commits=true&bg_color=30,6994CDEE,6994CDEE&title_color=fff&text_color=fff"> &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songhannaa&layout=compact&bg_color=30,6994CDEE,6994CDEE&title_color=fff&text_color=fff">
-</p>
-<br>
+
 
 ## 👋 Hi there 
 
